@@ -2,16 +2,6 @@
     margin: 0px;
     padding: 0px;
 }
-
-#container {
-    white-space: nowrap;
-    display: inline-block;
-    margin: 10px;
-}
-.pokemonimg {
-    display: inline-block;
-}
-
-.pokemoninfo {
+.center{
     text-align: center;
 }
